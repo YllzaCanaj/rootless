@@ -706,13 +706,8 @@ padding-bottom: 150px;
 
 /* Section one */
 
-.section-oneandtwo {
-  position: absolute;
-}
-
 .section-one {
-  padding-left: 220px;
-  position: absolute;
+  padding-left: 20px;
   padding-top: 30px;
 }
 
@@ -771,7 +766,7 @@ padding-bottom: 150px;
 /* Section two */
 
 .section-two {
-  padding-left: 630px;
+  padding-left: 30px;
   padding-top: 160px;
 }
 
@@ -830,12 +825,11 @@ padding-bottom: 150px;
 /* Section three */
 
 .section-threeandfour {
-  padding-top: 630px;
+  padding-top: 30px;
 }
 
 .section-three {
-  padding-left: 220px;
-  position: absolute;
+  padding-left: 20px;
   padding-top: 30px;
 }
 
@@ -877,7 +871,6 @@ padding-bottom: 150px;
 }
 
 .sectiononflowerpurple {
-  position: absolute;
   width: 40px;
 }
 
@@ -894,7 +887,7 @@ padding-bottom: 150px;
 /* Section four */
 
 .section-four {
-  padding-left: 630px;
+  padding-left: 30px;
   padding-top: 160px;
 }
 
@@ -953,7 +946,7 @@ padding-bottom: 150px;
 /* Join Rootless */
 
 .join {
-  margin-left: 24%;
+  text-align: center;
   padding-top: 200px ;
 }
 
@@ -971,8 +964,11 @@ padding-bottom: 150px;
   font-family: "Poppins", sans-serif;
 }
 
+.start-btn{
+  text-align: center;
+}
+
 .start-btn-two {
-  margin-left: 37%;
   font-family: "Poppins", sans-serif;
   font-weight: bolder;
   font-size: 15px;
